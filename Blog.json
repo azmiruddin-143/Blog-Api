@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "title": "Understanding React Basics",
+      "author": "Jane Doe",
+      "date": "2024-01-12",
+      "content": "React is a JavaScript library for building user interfaces...",
+      "tags": ["React", "JavaScript", "Frontend"],
+      "likes": 120
+    },
+    {
+      "id": 2,
+      "title": "Getting Started with Node.js",
+      "author": "John Smith",
+      "date": "2024-02-05",
+      "content": "Node.js is a runtime environment that allows you to run JavaScript on the server...",
+      "tags": ["Node.js", "JavaScript", "Backend"],
+      "likes": 200
+    },
+    {
+      "id": 3,
+      "title": "CSS Grid vs Flexbox",
+      "author": "Emily Brown",
+      "date": "2024-03-10",
+      "content": "CSS Grid and Flexbox are powerful layout systems in CSS...",
+      "tags": ["CSS", "Grid", "Flexbox"],
+      "likes": 75
+    },
+    {
+      "id": 4,
+      "title": "Introduction to TypeScript",
+      "author": "Michael Green",
+      "date": "2024-04-20",
+      "content": "TypeScript is a typed superset of JavaScript...",
+      "tags": ["TypeScript", "JavaScript", "Programming"],
+      "likes": 150
+    },
+    {
+      "id": 5,
+      "title": "Building REST APIs with Express",
+      "author": "Sophia Turner",
+      "date": "2024-05-15",
+      "content": "Express is a popular framework for building web applications in Node.js...",
+      "tags": ["Express", "Node.js", "API"],
+      "likes": 180
+    },
+    {
+      "id": 6,
+      "title": "Introduction to GraphQL",
+      "author": "Olivia Johnson",
+      "date": "2024-06-08",
+      "content": "GraphQL is a query language for APIs...",
+      "tags": ["GraphQL", "API", "Backend"],
+      "likes": 90
+    },
+    {
+      "id": 7,
+      "title": "Mastering Asynchronous JavaScript",
+      "author": "William Martin",
+      "date": "2024-07-22",
+      "content": "Asynchronous programming is a key part of modern JavaScript...",
+      "tags": ["JavaScript", "Async", "Programming"],
+      "likes": 220
+    },
+    {
+      "id": 8,
+      "title": "CSS Animations for Beginners",
+      "author": "Lucas Lee",
+      "date": "2024-08-05",
+      "content": "CSS animations add life to your web pages...",
+      "tags": ["CSS", "Animation", "Frontend"],
+      "likes": 60
+    },
+    {
+      "id": 9,
+      "title": "Getting Started with MongoDB",
+      "author": "Charlotte White",
+      "date": "2024-09-12",
+      "content": "MongoDB is a NoSQL database that's popular for modern applications...",
+      "tags": ["MongoDB", "Database", "NoSQL"],
+      "likes": 130
+    },
+    {
+      "id": 10,
+      "title": "Introduction to Docker",
+      "author": "James Brown",
+      "date": "2024-10-18",
+      "content": "Docker is a platform for developing, shipping, and running applications in containers...",
+      "tags": ["Docker", "DevOps", "Containers"],
+      "likes": 240
+    }
+  ]
